@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   More information about Meta SDK for iOS you can referes to official documentation https://developers.facebook.com/docs/ios
                        DESC
-  s.homepage         = 'https://github.com/chandrabezzo/flutter_meta_sdk'
+  s.homepage         = 'https://github.com/brainmangv/flutter_meta_sdk_no_ad_network'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Solusi Bejo' => 'chandrashibezzo@gmail.com' }
   s.source           = { :path => '.' }

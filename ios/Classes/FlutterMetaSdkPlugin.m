@@ -1,6 +1,6 @@
 #import "FlutterMetaSdkPlugin.h"
-#if __has_include(<flutter_meta_sdk/flutter_meta_sdk-Swift.h>)
-#import <flutter_meta_sdk/flutter_meta_sdk-Swift.h>
+#if __has_include(<flutter_meta_sdk_no_ad_network/flutter_meta_sdk-Swift.h>)
+#import <flutter_meta_sdk_no_ad_network/flutter_meta_sdk-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
 // is not copied when this plugin is created as a library.

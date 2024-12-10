@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.solusibejo.flutter_meta_sdk">
+    package="com.brainmangv.flutter_meta_sdk_no_ad_network">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <application>

@@ -1,6 +1,6 @@
-# flutter_meta_sdk_example
+# flutter_meta_sdk_no_ad_network_example
 
-Demonstrates how to use the flutter_meta_sdk plugin.
+Demonstrates how to use the flutter_meta_sdk_no_ad_network plugin.
 
 ## Getting Started
 

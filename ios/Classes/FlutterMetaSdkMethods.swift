@@ -1,6 +1,6 @@
 //
 //  FlutterMetaSdkMethods.swift
-//  flutter_meta_sdk
+//  flutter_meta_sdk_no_ad_network
 //
 //  Created by Chandra Abdul Fattah on 25/07/22.
 //

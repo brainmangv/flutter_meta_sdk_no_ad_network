@@ -1,4 +1,4 @@
-package com.solusibejo.flutter_meta_sdk
+package com.brainmangv.flutter_meta_sdk_no_ad_network
 
 import android.os.Bundle
 import com.facebook.FacebookSdk

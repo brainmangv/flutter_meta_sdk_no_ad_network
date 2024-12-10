@@ -1,4 +1,4 @@
-package com.solusibejo.flutter_meta_sdk
+package com.brainmangv.flutter_meta_sdk_no_ad_network
 
 import android.content.Context
 import androidx.annotation.NonNull

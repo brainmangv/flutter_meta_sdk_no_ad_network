@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_meta_sdk/flutter_meta_sdk.dart';
+import 'package:flutter_meta_sdk_no_ad_network/flutter_meta_sdk.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
@@ -7,7 +7,6 @@ void main() {
 
   const channel = MethodChannel(channelName);
   final metaSdk = FlutterMetaSdk();
-
 
   MethodCall? methodCall;
 
@@ -41,5 +40,3 @@ void main() {
     });
   });
 }
-
-

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_meta_sdk/flutter_meta_sdk.dart';
+import 'package:flutter_meta_sdk_no_ad_network/flutter_meta_sdk.dart';
 
 void main() => runApp(const MyApp());
 
