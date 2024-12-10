@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_meta_sdk.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_meta_sdk'
+  s.name             = 'flutter_meta_sdk_no_ad_network'
   s.version          = '1.0.0'
   s.summary          = 'Meta SDK for Flutter'
   s.description      = <<-DESC
