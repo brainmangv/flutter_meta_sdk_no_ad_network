@@ -7,5 +7,5 @@ import 'flutter_meta_sdk_platform_interface.dart';
 class MethodChannelFlutterMetaSdk extends FlutterMetaSdkPlatform {
   /// The method channel used to interact with the native platform.
   @visibleForTesting
-  final methodChannel = const MethodChannel('flutter_meta_sdk');
+  final methodChannel = const MethodChannel('flutter_meta_sdk_no_ad_network');
 }
