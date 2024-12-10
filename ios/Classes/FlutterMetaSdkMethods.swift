@@ -8,7 +8,7 @@
 import Foundation
 import FBSDKCoreKit
 import FBSDKCoreKit_Basics
-import FBAudienceNetwork
+//import FBAudienceNetwork
 
 class FlutterMetaSdkMethods {
     static func clearUserData(result: @escaping FlutterResult) {
