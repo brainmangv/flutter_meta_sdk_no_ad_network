@@ -1,4 +1,4 @@
-group 'com.solusibejo.flutter_meta_sdk'
+group 'com.solusibejo.flutter_meta_sdk_no_ad_network'
 version '1.0-SNAPSHOT'
 
 buildscript {
