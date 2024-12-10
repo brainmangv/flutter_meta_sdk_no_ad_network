@@ -23,7 +23,7 @@ class FlutterMetaSdkPlugin: FlutterPlugin, MethodCallHandler {
   override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
     channel = MethodChannel(
       flutterPluginBinding.binaryMessenger,
-      "solusibejo.com/flutter_meta_sdk"
+      "flutter_meta_sdk_no_ad_network"
     )
     channel.setMethodCallHandler(this)
 

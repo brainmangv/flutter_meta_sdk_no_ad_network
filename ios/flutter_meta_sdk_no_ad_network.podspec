@@ -1,6 +1,6 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint flutter_meta_sdk.podspec` to validate before publishing.
+# Run `pod lib lint flutter_meta_sdk_nod_ad_network.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_meta_sdk_no_ad_network'
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Solusi Bejo' => 'chandrashibezzo@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
-  s.public_header_files = 'Classes/**/*.h'
+  #s.public_header_files = 'Classes/**/*.h'
   s.static_framework = true
   s.dependency 'Flutter'
   s.dependency 'FBSDKCoreKit'

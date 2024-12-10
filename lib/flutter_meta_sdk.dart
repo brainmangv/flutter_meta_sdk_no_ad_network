@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/services.dart';
 
-const channelName = 'solusibejo.com/flutter_meta_sdk';
+const channelName = 'flutter_meta_sdk_no_ad_network';
 
 class FlutterMetaSdk {
   static const _channel = MethodChannel(channelName);
