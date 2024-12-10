@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.dependency 'Flutter'
   s.dependency 'FBSDKCoreKit'
-  s.dependency 'FBAudienceNetwork'
+  #s.dependency 'FBAudienceNetwork'
   s.platform = :ios, '10.0'
 
   # Flutter.framework does not contain a i386 slice.
