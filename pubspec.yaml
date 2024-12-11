@@ -40,7 +40,7 @@ flutter:
         package: com.brainmangv.flutter_meta_sdk_no_ad_network
         pluginClass: FlutterMetaSdkPlugin
       ios:
-        pluginClass: FlutterMetaSdkPlugin
+        pluginClass: SwiftFlutterMetaSdkPlugin
       web:
         pluginClass: FlutterMetaSdkWeb
         fileName: flutter_meta_sdk_web.dart
