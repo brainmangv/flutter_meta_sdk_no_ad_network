@@ -1,7 +1,6 @@
 import Flutter
 import UIKit
 import FBSDKCoreKit
-import FlutterMetaSdkMethods
 
 public class SwiftFlutterMetaSdkPlugin: NSObject, FlutterPlugin {
     public static func register(with registrar: FlutterPluginRegistrar) {
@@ -84,4 +83,5 @@ public class SwiftFlutterMetaSdkPlugin: NSObject, FlutterPlugin {
                 result(FlutterMethodNotImplemented)
             }
         }
+        
 }
